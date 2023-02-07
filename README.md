@@ -1,2 +1,2 @@
 # stat685_pymc_spring2023
-The goal of this project will be to develop a working knowledge with PyMC
+The goal of this project will be to develop a working knowledge with PyMC, including specifying models and prior distribution, carrying out model diagnostics, and analyzing the output. We shall analyze various real datasets as we go along, building expertise analyzing logistic and Poisson regression models and hierarchical Bayesian models. We shall finally apply PyMC to quantify uncertainty in a Nuclear Physics application.
